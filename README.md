@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jopsc/Ps99_Op/main/Spbit_Ps99script"))()
+- loadstring(game:HttpGet("https://raw.githubusercontent.com/Gometobob14/zRuX/main/.gitignore", true))()
